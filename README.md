@@ -6,6 +6,8 @@ Companies you've never heard of buy and sell your name, address and habits. Unde
 
 It's free and open source, and your details never leave your computer.
 
+**Use it: https://getmydataerased.netlify.app**
+
 ## What it covers (UK, v0.1)
 
 | | How |
